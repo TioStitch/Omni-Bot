@@ -1,0 +1,68 @@
+{
+  "1": {
+    "emoji_info": {
+      "name": "Alien_HEATBLAST",
+      "id": "1297007024755839138",
+      "animated": false
+    },
+    "name": "Chama",
+    "description": "Chama é a amostra de DNA do Omnitrix de um Pyronita da estrela Pyros.",
+    "power": "Pirocinese",
+    "DNA": "Pyronita"
+  },
+  "2": {
+    "emoji_info": {
+      "name": "Alien_FOUR_ARMS",
+      "id": "1297007024755839138",
+      "animated": false
+    },
+    "name": "Quatro-Braços",
+    "description": "Quatro Braços é a amostra de DNA do Omnitrix de um Tetramando do planeta Khoros.",
+    "power": "Superforça",
+    "DNA": "Tetramando"
+  },
+  "3": {
+    "emoji_info": {
+      "name": "Alien_GRAY_MATTER",
+      "id": "1297007024755839138",
+      "animated": false
+    },
+    "name": "Massa Cinzenta",
+    "description": "Massa Cinzenta é a amostra de DNA do Omnitrix de um Galvaniano do planeta Galvan Prime.",
+    "power": "Super Inteligência",
+    "DNA": "Galvaniano"
+  },
+  "4": {
+    "emoji_info": {
+      "name": "Alien_XLR8",
+      "id": "1297007024755839138",
+      "animated": false
+    },
+    "name": "XLR8",
+    "description": "XLR8 é a amostra de DNA do Omnitrix de um Kinecelerano do planeta Kinet.",
+    "power": "Super Velocidade",
+    "DNA": "Kinecelerano"
+  },
+  "5": {
+    "emoji_info": {
+      "name": "Alien_WILDVINE",
+      "id": "1297007024755839138",
+      "animated": false
+    },
+    "name": "Cipó Selvagem",
+    "description": "Cipó Selvagem, anteriormente Vinha Selvagem, é a amostra de DNA do Omnitrix de um Florauna do planeta Flors Verdance.",
+    "power": "Fitocinese",
+    "DNA": "Florauna"
+  },
+  "6": {
+    "emoji_info": {
+      "name": "Alien_CANONBOLT",
+      "id": "1297007024755839138",
+      "animated": false
+    },
+    "name": "Bala de Canhão",
+    "description": "Bala de Canhão é a amostra de DNA do Omnitrix de um Pelarota arburiano do planeta Arburia.",
+    "power": "Forma de Esfera",
+    "DNA": "Pelarota arburiano"
+  }
+}

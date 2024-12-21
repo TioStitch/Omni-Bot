@@ -1,0 +1,104 @@
+{
+  "1": {
+    "emoji_info": {
+      "name": "Item_OMNITRIX_UPDATED",
+      "id": "1296935247509983352",
+      "animated": false
+    },
+    "shop_info": {
+      "buy_enabled": false,
+      "buy_price": 0,
+      "sell_enabled": true,
+      "sell_price": 1500000
+    },
+    "name": "Omnitrix Protótipo",
+    "description": "Este relógio é um protótipo da arma mais poderosa do universo, o seu objetivo é trazer de volta da extinção, as espécies alienígenas extintas.",
+    "isCraftable": false,
+    "craft": [""]
+  },
+  "2": {
+    "emoji_info": {
+      "name": "Item_OMNITRIX_CORE",
+      "id": "1296935443249758213",
+      "animated": false
+    },
+    "shop_info": {
+      "buy_enabled": false,
+      "buy_price": 0,
+      "sell_enabled": true,
+      "sell_price": 350000
+    },
+    "name": "Chip do Omnitrix",
+    "description": "Este chip pode alterar o DNA do seu utilizador. Também pode ser fundido com outras peças.",
+    "isCraftable": false,
+    "craft": [""]
+  },
+  "3": {
+    "emoji_info": {
+      "name": "Item_ELEMENT_X",
+      "id": "1297007024755839138",
+      "animated": false
+    },
+    "shop_info": {
+      "buy_enabled": false,
+      "buy_price": 0,
+      "sell_enabled": true,
+      "sell_price": 1500000
+    },
+    "name": "Elemento X",
+    "description": "O Elemento X é uma substância de constituição mineral que apareceu no episódio A Força Galáctica, que foi roubado por Vulkanus e Seis-Seis. Quando combinado com a Liga Bicenthium, ele cria uma poderosa explosão que pode destruir um sistema solar inteiro.",
+    "isCraftable": false,
+    "craft": [""]
+  },
+  "4": {
+    "emoji_info": {
+      "name": "Item_TADENITA_CRYSTAL",
+      "id": "1296995644329689149",
+      "animated": false
+    },
+    "shop_info": {
+      "buy_enabled": true,
+      "buy_price": 1860,
+      "sell_enabled": true,
+      "sell_price": 1400
+    },
+    "name": "Tadenita",
+    "description": "Tadenita, também chamada de Tetonita, é um minério muito resistente e muito valioso, originário do Planeta de Tadenita.",
+    "isCraftable": false,
+    "craft": [""]
+  },
+  "5": {
+    "emoji_info": {
+      "name": "Item_CORODIUM_CRYSTAL",
+      "id": "1297002858884890624",
+      "animated": false
+    },
+    "shop_info": {
+      "buy_enabled": true,
+      "buy_price": 30000,
+      "sell_enabled": true,
+      "sell_price": 10000
+    },
+    "name": "Coródium",
+    "description": "Coródium é um elemento instável altamente radioativo, proveniente de algum lugar do espaço sideral.",
+    "isCraftable": false,
+    "craft": [""]
+  },
+  "6": {
+    "emoji_info": {
+      "name": "Item_PETROPIA_CRYSTAL",
+      "id": "1297001598421176401",
+      "animated": false
+    },
+    "shop_info": {
+      "buy_enabled": false,
+      "buy_price": 0,
+      "sell_enabled": true,
+      "sell_price": 600000
+    },
+    "name": "Cristal de Petropia",
+    "description": "O Cristal de Petropia é um artefato sagrado para o povo de Petropia e é bem conhecido por seu poder quase ilimitado.",
+    "isCraftable": false,
+    "craft": [""]
+  }
+}

@@ -1,0 +1,19 @@
+{
+
+  "PROFILE_PERSONAL_CREATE": "**[CENTRAL DE DADOS]** Não encontramos você em nosso Banco de Dados. Estamos realizando seu registro...",
+  "PROFILE_PERSONAL_CREATED": "**[CENTRAL DE DADOS]** Seu registro está pronto!",
+
+  "PROFILE_PERSONAL_DATA_RECEIVE_INVENTORY": "**[CENTRAL DE DADOS]** Abaixo estão os itens armazenados em seu inventário.\n",
+  "PROFILE_PERSONAL_DATA_PER_ITEM": "\n({item_emoji}) {item_amount}x - **{item_name}**",
+  "PROFILE_PERSONAL_DATA_RECEIVE": "**[CENTRAL DE DADOS]** As informações do item foram encontradas!\n   **Visualização**: {item_emoji}\n   **Nome**: {item_name}\n   **Descrição**: {item_description}",
+
+
+  "PROFILE_VIEW_EMPTY_USER": "**[CENTRAL DE DADOS]** Não podemos buscar um usuário sem seu nome!",
+  "PROFILE_VIEW_NOT_FOUND": "**[CENTRAL DE DADOS]** Não encontramos este usuário em nosso Banco de Dados!",
+  "PROFILE_VIEW_DATA_RECEIVE": "**[CENTRAL DE DADOS]** As informações do usuário foram encontradas!\n   **Nome**: {user_name}\n   **Cartas Sumô**: {extra_sumo_cards}\n\n   **Última Caixa Especial**: {extra_last_loot_box}\n   **Última Caixa Diária**: {extra_last_daily_box}",
+
+
+  "WIKI_DATA_NOT_FOUND": "**[CENTRAL DE DADOS]** Não encontramos este item em nosso Banco de Dados!",
+  "WIKI_DATA_RECEIVE": "**[CENTRAL DE DADOS]** As informações do item foram encontradas!\n   **Visualização**: {item_emoji}\n   **Nome**: {item_name}\n   **Descrição**: {item_description}"
+
+}

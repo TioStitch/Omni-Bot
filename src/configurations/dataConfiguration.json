@@ -1,0 +1,12 @@
+{
+  "DATA_TYPE": "MySQL",
+  "MYSQL_CONFIG": {
+    "HOST": "localhost:3306",
+    "DATABASE": "server_development",
+    "USERNAME": "root",
+    "PASSWORD": ""
+  },
+  "SQLITE_CONFIG": {
+    "FILE_NAME": "userdata"
+  }
+}

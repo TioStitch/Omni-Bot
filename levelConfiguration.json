@@ -1,0 +1,10 @@
+{
+  "1": {
+    "eXP_requirement": 50.0,
+    "rewards_amount": 5,
+    "rewards": {
+      "1": "unlockDNA cannonbolt",
+      "2": "getCoins 100000"
+    }
+  }
+}
